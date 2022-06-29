@@ -11,7 +11,7 @@
     },
     "autoload": {
         "psr-4": {
-            "commission\\Calculator\\": "src/"
+            "commission\\calculator\\": "src/"
         }
     },
     "authors": [
